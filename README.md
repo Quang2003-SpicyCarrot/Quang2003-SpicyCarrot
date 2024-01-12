@@ -27,15 +27,12 @@
 ![](https://img.shields.io/badge/Visualisation-Gephi-informational?style=flat&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Visualisation-PowerBI-informational?style=flat&logoColor=white&color=blue)
 
-
-
-
 ### Connect Point:
-<a href= "https://www.facebook.com/">![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logoColor=white&color=cyan)</a> 
-![](https://img.shields.io/badge/Facebook-informational?style=flat&logoColor=white&color=blue)
+<a href= "https://www.facebook.com/dongnguyen12122003/">![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logoColor=white&color=cyan)</a> 
+<a href= "https://www.linkedin.com/in/quangdongnguyen2003/">![](https://img.shields.io/badge/Facebook-informational?style=flat&logoColor=white&color=blue)</a>
 
 
-
+---
 ### Contributions and Achievements:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quang2003-SpicyCarrot&show_icons=true&theme=radical)](https://github.com/Quang2003-SpicyCarrot/github-readme-stats)
 
