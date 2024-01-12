@@ -13,7 +13,7 @@
 - Contact point: dongnguyen12122003@gmail.com
 - Hobbies: I frequently play piano in my leisure time.
 
-### Tools
+### Language and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jave-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logoColor=white&color=2bbc8a)
