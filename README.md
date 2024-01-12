@@ -31,9 +31,9 @@
 
 
 ### Connect Point:
-<a href="https://www.facebook.com/dongnguyen12122003/"><i class="ci ci-facebook ci-2xl"></i></a>
-<a href="https://www.linkedin.com/in/quangdongnguyen2003/"><i class="ci ci-linkedin ci-2xl"></i></a>
-<a href="https://www.github.com/Quang2003-SpicyCarrot"><i class="ci ci-github ci-2xl"></i></a>
+<a href= "https://www.facebook.com/">![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logoColor=white&color=cyan)</a> 
+![](https://img.shields.io/badge/Facebook-informational?style=flat&logoColor=white&color=blue)
+
 
 
 ### Contributions and Achievements:
