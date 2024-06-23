@@ -38,8 +38,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Quang2003-SpicyCarrot&style=flat-square&color=red)
 
-
-### My recent projects:
+---
+# My recent projects:
 **Data Analysis**  
 - <a href= "https://github.com/Quang2003-SpicyCarrot/R_projects/tree/main/Project%201%20-%20Dawson%20Steward%20Analytics"> Dawson Steward Analytics </a>
 - <a href= "https://github.com/Quang2003-SpicyCarrot/R_projects/tree/main/Project%202-%20Social%20Analysis%20with%20Reddit%20and%20Mastodon"> Social Analysis with Reddit and Mastodon</a>
