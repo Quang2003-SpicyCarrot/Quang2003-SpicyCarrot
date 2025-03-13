@@ -8,7 +8,7 @@
 
 # I'm a Data and Number lover!!
 
-- I'm currently working at JungTalents as a Freelance Data Analyst at JungTalents.
+- I am actively seeking a full-time Data Analyst position in Sydney, NSW. 
 - Interests: Passionate about the world of data, science and mathematics, and thriving to be a great Data person!
 - Contact point: dongnguyen12122003@gmail.com
 - Hobbies: I frequently play piano in my leisure time.
@@ -59,7 +59,7 @@
 - <a href="https://github.com/Quang2003-SpicyCarrot/Python_Projects/tree/main/Projects%20with%20WSU/Assignment%202%20-%20Machine%20Learning">Implementing complex Convolutional Neural Network in tradditional AutoEncoder for image compression</a>
 - <a href="https://github.com/Quang2003-SpicyCarrot/Python_Projects/blob/main/Projects%20with%20WSU/Assignment1%20-Mathematical%20Programming/Assignment1-Mathematical%20Programming.ipynb">Mathematical Programming with Python</a>
 - Implementing C-VAE (Conditional Variational AutoEncoder) and C-GAN (Conditional General Adversal Network) on generating new images with Python. (Status: updating)
-- Big Data: Using Hadoop HDFS< Mapreduce to perform information retrieval and sentiment analysis. (Status: updating)
+- <a href="https://github.com/Quang2003-SpicyCarrot/Python_Projects/tree/main/Projects%20with%20WSU/Year%203%20-%20Autumn%20-%20BigData">Big Data: Using Hadoop HDFS< Mapreduce to perform information retrieval and sentiment analysis</a>
 
 
 **Visualisation with PowerBI and Tableau**
